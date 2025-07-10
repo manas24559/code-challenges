@@ -20,5 +20,5 @@ let obj = {
 
 let a = { name: "Alice" };
 let b = a;
-b.name = "Bob";
+b.name = "Bobgg";
 console.log(a.name);
